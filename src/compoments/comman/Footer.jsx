@@ -143,7 +143,7 @@ const Footer = () => {
                         })}
                     </div>
                     {/* copyright */}
-                    <div className=" text-center">Made With ❤️ Ramu Prajapati © 2025 SurgeTech</div>
+                    <div className=" text-center">Made With ❤️ Atul Pandey © 2025 SurgeTech</div>
                 </div>
             </div>
         </div >
